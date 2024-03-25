@@ -4,4 +4,5 @@
 <h2> test phase 2 </h2>
 <h2> t1: regression tests phase </h2>
 <h2> t2: trigger regression tests phase </h2>
-<h2> t2: trigger regression tests phase </h2>
+<h2> t3: trigger regression tests phase </h2>
+<h2> t4: trigger prod deployment </h2>
